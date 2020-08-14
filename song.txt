@@ -1,6 +1,6 @@
 Just a young gun with the quick fuse
 I was uptight, wanna let loose
-I was dreaming of bigger things
-And wanna leave my own life behind
 
 Changes from master breanch
+Changes from feature breanch
+
